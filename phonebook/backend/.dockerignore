@@ -3,3 +3,4 @@
 node_modules
 Dockerfile
 dev.Dockerfile
+mongo_data
